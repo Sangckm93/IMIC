@@ -1,1 +1,1 @@
-giai phuong trinh bac 2
+giai phuong trinh bac 2 Ax^2 + Bx + C= 0;
