@@ -9,3 +9,4 @@ git push <project folder name>		// push file up to github server
 
 
 rm -f ./.git/index.lock			// 
+git add .				// add all file of project in 1 time
