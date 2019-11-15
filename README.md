@@ -1,12 +1,1 @@
-git help				// help
-git status 				// check status of git folder
-git add <file name.type> 		// add file
-git commit -m "Message for reference"	// reference for the file change or something
-git config --global user.name = "..."	// config username
-git config --global user.email = "..."	// config email
-git remote add <username on github> <url>	// config goal of the project where you want to upload to
-git push <project folder name>		// push file up to github server
-git clone <url>				// download info from git folder
-
-rm -f ./.git/index.lock			// 
-git add .				// add all file of project in 1 time
+cout<< "Hello world"<<endl
